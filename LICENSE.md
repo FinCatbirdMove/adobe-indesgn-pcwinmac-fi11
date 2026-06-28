@@ -1,4 +1,4 @@
-# 
+# 高级 Adobe InDesign 扩展 Mac OS版 | 开源 Adobe InDesign 扩展 PC Windows版。集成 主页面 和 导出预设，跨平台性能最大化。
 
 
 
